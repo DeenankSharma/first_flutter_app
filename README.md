@@ -1,3 +1,4 @@
-# flutter_application_1
+# Grocery_list
 
-A new Flutter project.
+This Flutter app allows users to create and manage their grocery lists. Users can view a list of groceries, add items to their cart, add items to their wishlist, and remove items from both the cart and wishlist.
+
